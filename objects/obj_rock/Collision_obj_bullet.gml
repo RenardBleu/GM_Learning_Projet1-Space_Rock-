@@ -12,6 +12,13 @@ obj_game.points += 50;
 /// @DnDApplyTo : other
 with(other) instance_destroy();
 
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1.1
+/// @DnDHash : 13E64AF3
+/// @DnDArgument : "soundid" "snd_rockdestroy"
+/// @DnDSaveInfo : "soundid" "snd_rockdestroy"
+audio_play_sound(snd_rockdestroy, 0, 0, 1.0, undefined, 1.0);
+
 /// @DnDAction : YoYo Games.Particles.Effect
 /// @DnDVersion : 1
 /// @DnDHash : 2509B1E5
