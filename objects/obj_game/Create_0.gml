@@ -10,3 +10,9 @@ points = 0;
 /// @DnDArgument : "expr" "10"
 /// @DnDArgument : "var" "powerup_time"
 powerup_time = 10;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 5E3BE35F
+/// @DnDArgument : "var" "level"
+level = 0;
