@@ -1,9 +1,9 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 004E4662
-/// @DnDArgument : "expr" "3"
+/// @DnDArgument : "expr" "2"
 /// @DnDArgument : "var" "powerup"
-powerup = 3;
+powerup = 2;
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
