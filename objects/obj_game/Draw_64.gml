@@ -1,11 +1,11 @@
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
 /// @DnDHash : 731BF6D3
-/// @DnDArgument : "x" "90"
-/// @DnDArgument : "y" "20"
-/// @DnDArgument : "caption" ""score : ""
+/// @DnDArgument : "x" "100"
+/// @DnDArgument : "y" "70"
+/// @DnDArgument : "caption" ""score : \n""
 /// @DnDArgument : "var" "points"
-draw_text(90, 20, string("score : ") + string(points));
+draw_text(100, 70, string("score : \n") + string(points));
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
