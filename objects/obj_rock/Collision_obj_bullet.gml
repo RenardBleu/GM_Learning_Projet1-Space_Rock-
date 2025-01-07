@@ -214,7 +214,15 @@ if(obj_game.rock_niv == 6 * obj_game.level){	/// @DnDAction : YoYo Games.Commo
 	/// @DnDArgument : "var" "obj_game.rock_niv"
 	/// @DnDArgument : "var_1" "obj_game.level"
 	obj_game.rock_niv = 0;
-	obj_game.level = obj_game.level +1;}
+	obj_game.level = obj_game.level +1;
+
+	/// @DnDAction : YoYo Games.Common.Set_Global
+	/// @DnDVersion : 1
+	/// @DnDHash : 63D3DCBA
+	/// @DnDParent : 660D9A22
+	/// @DnDArgument : "value" "obj_game.level"
+	/// @DnDArgument : "var" "global.level_last"
+	global.level_last = obj_game.level;}
 
 /// @DnDAction : YoYo Games.Common.Else
 /// @DnDVersion : 1

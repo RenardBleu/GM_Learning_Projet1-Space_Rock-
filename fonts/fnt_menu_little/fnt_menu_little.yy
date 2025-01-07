@@ -1,6 +1,6 @@
 {
   "$GMFont":"",
-  "%Name":"fnt_menu",
+  "%Name":"fnt_menu_little",
   "AntiAlias":0,
   "applyKerning":0,
   "ascender":22,
@@ -117,7 +117,7 @@
   "last":0,
   "lineHeight":29,
   "maintainGms1Font":false,
-  "name":"fnt_menu",
+  "name":"fnt_menu_little",
   "parent":{
     "name":"Polices",
     "path":"folders/Polices.yy",

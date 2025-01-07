@@ -22,3 +22,9 @@ draw_text(room_width / 2, 40, string("niveau : " + string(level)) + "");
 /// @DnDArgument : "y" "90"
 /// @DnDArgument : "caption" "string(6 * level) + " / " + string(rock_niv)"
 draw_text(room_width / 2, 90, string(string(6 * level) + " / " + string(rock_niv)) + "");
+
+/// @DnDAction : YoYo Games.Drawing.Set_Alignment
+/// @DnDVersion : 1.1
+/// @DnDHash : 4A0A77BB
+draw_set_halign(fa_left);
+draw_set_valign(fa_top);

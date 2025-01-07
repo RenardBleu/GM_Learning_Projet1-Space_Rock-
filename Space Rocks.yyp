@@ -31,10 +31,11 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.8.1.171",
+    "IDEVersion":"2024.11.0.179",
   },
   "name":"Space Rocks",
   "resources":[
+    {"id":{"name":"fnt_menu_little","path":"fonts/fnt_menu_little/fnt_menu_little.yy",},},
     {"id":{"name":"fnt_menu","path":"fonts/fnt_menu/fnt_menu.yy",},},
     {"id":{"name":"LINK_TO_TUTORIALS","path":"notes/LINK_TO_TUTORIALS/LINK_TO_TUTORIALS.yy",},},
     {"id":{"name":"obj_bullet","path":"objects/obj_bullet/obj_bullet.yy",},},
@@ -42,6 +43,7 @@
     {"id":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},},
     {"id":{"name":"obj_button_play","path":"objects/obj_button_play/obj_button_play.yy",},},
     {"id":{"name":"obj_button_quit","path":"objects/obj_button_quit/obj_button_quit.yy",},},
+    {"id":{"name":"obj_button_record","path":"objects/obj_button_record/obj_button_record.yy",},},
     {"id":{"name":"obj_control","path":"objects/obj_control/obj_control.yy",},},
     {"id":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
@@ -63,6 +65,7 @@
     {"id":{"name":"spr_powerup_ghost","path":"sprites/spr_powerup_ghost/spr_powerup_ghost.yy",},},
     {"id":{"name":"spr_powerup_health","path":"sprites/spr_powerup_health/spr_powerup_health.yy",},},
     {"id":{"name":"spr_powerup_spread","path":"sprites/spr_powerup_spread/spr_powerup_spread.yy",},},
+    {"id":{"name":"spr_reccord","path":"sprites/spr_reccord/spr_reccord.yy",},},
     {"id":{"name":"spr_rock_big","path":"sprites/spr_rock_big/spr_rock_big.yy",},},
     {"id":{"name":"spr_rock_small","path":"sprites/spr_rock_small/spr_rock_small.yy",},},
   ],
