@@ -6,6 +6,14 @@
 /// @DnDArgument : "value" "2"
 if(!(powerup == 2)){	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
+	/// @DnDHash : 344868E7
+	/// @DnDParent : 3C961A1D
+	/// @DnDArgument : "expr" "powerup"
+	/// @DnDArgument : "var" "powerup_preview"
+	powerup_preview = powerup;
+
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
 	/// @DnDHash : 568FA004
 	/// @DnDInput : 2
 	/// @DnDParent : 3C961A1D

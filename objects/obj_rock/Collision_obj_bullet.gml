@@ -6,13 +6,14 @@
 if(obj_game.powerup_time < 0){	/// @DnDAction : YoYo Games.Random.Choose
 	/// @DnDVersion : 1
 	/// @DnDHash : 1D2798EA
-	/// @DnDInput : 3
+	/// @DnDInput : 4
 	/// @DnDParent : 0B309B32
 	/// @DnDArgument : "var" "obj"
 	/// @DnDArgument : "option" "obj_powerup_ghost"
 	/// @DnDArgument : "option_1" "obj_powerup_spread"
 	/// @DnDArgument : "option_2" "obj_powerup_freeze"
-	obj = choose(obj_powerup_ghost, obj_powerup_spread, obj_powerup_freeze);
+	/// @DnDArgument : "option_3" "obj_powerup_health"
+	obj = choose(obj_powerup_ghost, obj_powerup_spread, obj_powerup_freeze, obj_powerup_health);
 
 	/// @DnDAction : YoYo Games.Instances.Create_Instance
 	/// @DnDVersion : 1
