@@ -55,7 +55,7 @@ Attrapez des bonus toutes les 10 seconde après avoir détruit des meteores pour
 
 ## Installation
 
-Pour jouer à Space Rocks, téléchargez la dernière version [ici](https://github.com/RenardBleu/GM_Learning_Projet1/releases/tag/v1.0.0).
+Pour jouer à Space Rocks, téléchargez la dernière version [ici](https://github.com/RenardBleu/GM_Learning_Projet1-Space_Rock-/releases/tag/v1.0.0).
 
 ## Technologies utilisées
 
@@ -72,4 +72,4 @@ Pour jouer à Space Rocks, téléchargez la dernière version [ici](https://gith
 
 Renard Bleu - renardbleu84100@gmail.com - [Twitter / X](https://x.com/renardbleu_of)
 
-[Lien vers le dépôt GitHub](https://github.com/RenardBleu/GM_Learning_Projet1)
+[Lien vers le dépôt GitHub](https://github.com/RenardBleu/GM_Learning_Projet1-Space_Rock-)
