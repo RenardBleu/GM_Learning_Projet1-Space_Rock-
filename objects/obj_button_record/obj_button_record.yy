@@ -36,8 +36,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_reccord",
-    "path":"sprites/spr_reccord/spr_reccord.yy",
+    "name":"spr_record",
+    "path":"sprites/spr_record/spr_record.yy",
   },
   "spriteMaskId":null,
   "visible":true,
