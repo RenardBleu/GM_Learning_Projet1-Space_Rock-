@@ -2,7 +2,7 @@
 
 > Jeu de tire arcade dans l'espace dont la dificulté augmente au fur et à mesure.
 
-![Capture d'écran du jeu](https://media.discordapp.net/attachments/783061827642458192/1327190073854263368/Capture_decran_2025-01-10_091606.png?ex=67822993&is=6780d813&hm=79fe0adda52638a0840ec44afe6dc4a83b1c4e4b589268d84e70e77ab13bc30e&=&format=webp&quality=lossless&width=688&height=662)
+![Capture d'écran du jeu](https://raw.githubusercontent.com/RenardBleu/GM_Learning_Projet1-Space_Rock-/refs/heads/main/Capture_decran_2025-01-10_091606.webp)
 
 ## Table des matières
 
